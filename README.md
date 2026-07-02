@@ -6,13 +6,7 @@ My expertise includes Java, Spring Boot, Angular, Symfony and Camunda, with a st
 
 I enjoy turning ideas into practical software solutions while writing clean, maintainable code and continuously improving my technical skills.
 
-## Contents
 
-- Tech Stack
-- Featured Projects
-- Current Focus
-- Contact
-  
 ## Tech Stack
 
 - Java
@@ -38,6 +32,7 @@ I enjoy turning ideas into practical software solutions while writing clean, mai
 | [Facial Attendance System](https://github.com/oumeima-Temani/facial-attendance-system) | Java, OpenCV |
 | [Ecommerce Platform](https://github.com/oumeima-Temani/Ecommerce-web-mobile-platform) | Symfony, Angular |
 | [Enterprise Website Redesign](https://github.com/oumeima-Temani/Enterprise-website-redesign) | HTML, CSS, JavaScript |
+
 ## Current Focus
 
 - Building production-ready Full Stack applications
